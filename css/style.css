@@ -15,8 +15,8 @@ body{
 }
 .body{
     border-style: ridge;
-    width: 35%;
-    height: 72%;
+    width: 40%;
+    height: 80%;
     border-radius: 5%;
     border-color: rgb(243, 241, 241);
     text-align: center;
@@ -61,9 +61,9 @@ body{
 }
 button{
     width: 70%;
-    padding: 3% 0%;
+    padding: 2% 0%;
     text-align: center;
-    margin: 2% 4%;
+    margin: 1% 2%;
     border-radius: 25px;
     font-weight: bold;
     border: 2% solid;
@@ -98,4 +98,12 @@ img{
 .form2 p{
     font-size:xx-small;
     font-style: italic;
+}
+.frontbtn{
+    width:8%;
+    float: left;
+}
+.frontbtn1 {
+    width: 8%;
+    float:right;
 }
