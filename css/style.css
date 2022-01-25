@@ -1,5 +1,5 @@
 body{
-    background: url('https://coolwallpapers.me/picsup/5547656-question-mark-wallpapers.jpg') no-repeat center fixed;     
+    background: img('images/qize.jpg') no-repeat center fixed;     
     background-size: cover;
 }
 .navi ul li{
