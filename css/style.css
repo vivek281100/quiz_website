@@ -1,5 +1,6 @@
 body{
-    background: img('images/qize.jpg') no-repeat center fixed;     
+    background: img('images/qize.jpg') no-repeat center fixed;
+    background-color:red; 
     background-size: cover;
 }
 .navi ul li{
